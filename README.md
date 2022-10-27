@@ -10,6 +10,7 @@ Escolha dois blocos econômicos (por exemplo, Mercosul, União Européia, BRICS,
 Em cada um dos países dos blocos, verifique se deveriam ser classificados como “avançado” ou “atrasado” em relação ao indicador que você escolheu no ítem 1. Defina claramente qual foi seu critério para esta separação!
 
 Para cada bloco, estime a probabilidade de um país daquele bloco ser avançado, isto é, P(avançado|bloco).
+
 Usando o Teorema de Bayes, estime, para cada bloco, P(bloco|avançado).
 
 Projete um pequeno sistema que classifica países como participantes de algum bloco à partir da informação de eles serem avançados ou não no indicador que foi escolhido.
