@@ -5,7 +5,7 @@ Analisar relações entre as variáveis, utilizando ferramentas estatísticas in
 
 Desde o começo dos anos 1990, vários países têm se agrupado em blocos de interesse comum, como a União Européia e o Mercosul. Os blocos econômicos são grupos de países que decidem reduzir suas restrições para comércio, financiamento ou trânsito de pessoas entre si, numa tentativa de incentivar suas economias e ao mesmo tempo protegê-las de competições desiguais. Nesta etapa, faremos a análise de blocos econômicos frente aos indicadores que escolhemos.
 
-Escolha dois blocos econômicos (por exemplo, Mercosul, União Européia, BRICS, OPEP, etc.). Pesquise para entender quais foram os critérios para a criação do bloco (proximidade geográfica? Proximidade econômica? Proximidade cultural? Outro?) e quais foram as aberturas providas pelo bloco (isenção de impostos? trânsito de pessoas? acesso a financiamentos? outro?)
+Escolha dois blocos econômicos (por exemplo, Mercosul, União Européia, BRICS, OPEP, etc.). Pesquise para entender quais foram os critérios para a criação do bloco (proximidade geográfica? Proximidade econômica? Proximidade cultural? Outro?) e quais foram as aberturas providas pelo bloco (isenção de impostos? trânsito de pessoas? acesso a financiamentos? outro?) 
 
 Em cada um dos países dos blocos, verifique se deveriam ser classificados como “avançado” ou “atrasado” em relação ao indicador que você escolheu no ítem 1. Defina claramente qual foi seu critério para esta separação!
 
