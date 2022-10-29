@@ -19,7 +19,7 @@ Conclua: o indicador que você escolheu é um bom preditor para o bloco econômi
 
 Entrega
 
-Notebook exportado para PDF que é a continuação dos anteriores, contendo:
+Notebook exportado para PDF que é a continuação dos anteriores, contendo: FEITO
 
 Uma figura mostrando as distribuições dos países nas categorias “avançado” e “atrasado”, e, simultaneamente, mostrando a distribuição dos países nos blocos econômicos escolhidos, FEITO
 Análise: um texto de até 500 palavras explicando FEITO
