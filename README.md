@@ -21,10 +21,10 @@ Entrega
 
 Notebook exportado para PDF que é a continuação dos anteriores, contendo:
 
-Uma figura mostrando as distribuições dos países nas categorias “avançado” e “atrasado”, e, simultaneamente, mostrando a distribuição dos países nos blocos econômicos escolhidos,
+Uma figura mostrando as distribuições dos países nas categorias “avançado” e “atrasado”, e, simultaneamente, mostrando a distribuição dos países nos blocos econômicos escolhidos, FEITO
 Análise: um texto de até 500 palavras explicando FEITO
 Quais foram os blocos de interesse escolhidos FEITO
 Qual é o motivo pelo qual esses blocos específicos foram criados e quais são os benefícios que os países recebem ao participar dos blocos FEITO
 Os resultados do processo de classificação que você definiu, mostrando a probabilidade de acertos na classificação (acurácia por classe) para cada um dos blocos econômicos. FEITO
 Uma tabela indicando quais foram as modificações feitas na entrega anterior para contemplar o feedback que foi recebido.
-Lembre-se de entregar também seu dataset, isto é, deixe o repositório preparado para ser executado novamente!
+Lembre-se de entregar também seu dataset, isto é, deixe o repositório preparado para ser executado novamente! FEITO
