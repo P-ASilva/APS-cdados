@@ -1,30 +1,19 @@
 # APS-cdados
 
-Parte 3: Distribuições
-Analisar relações entre as variáveis, utilizando ferramentas estatísticas inferenciais adequadas
+Parte 4: Teste de hipótese
+Conduzir testes inferenciais adequados que possam dar base à tomada de decisão
 
-Desde o começo dos anos 1990, vários países têm se agrupado em blocos de interesse comum, como a União Européia e o Mercosul. Os blocos econômicos são grupos de países que decidem reduzir suas restrições para comércio, financiamento ou trânsito de pessoas entre si, numa tentativa de incentivar suas economias e ao mesmo tempo protegê-las de competições desiguais. Nesta etapa, faremos a análise de blocos econômicos frente aos indicadores que escolhemos.
+Embora seja um clichê pensarmos que alguns grupos de países são mais avançados que outros, isso nem sempre se confirma quando observamos dados. Nesta parte do trabalho, verificaremos se temos dados suficientes para justificar afirmações como esta. Tome por base o modelo estatístico que você encontrou na etapa anterior para as classificações “avançado” ou “atrasado” de países e:
 
-Escolha dois blocos econômicos (por exemplo, Mercosul, União Européia, BRICS, OPEP, etc.). Pesquise para entender quais foram os critérios para a criação do bloco (proximidade geográfica? Proximidade econômica? Proximidade cultural? Outro?) e quais foram as aberturas providas pelo bloco (isenção de impostos? trânsito de pessoas? acesso a financiamentos? outro?)  FEITO
-
-Em cada um dos países dos blocos, verifique se deveriam ser classificados como “avançado” ou “atrasado” em relação ao indicador que você escolheu no ítem 1. Defina claramente qual foi seu critério para esta separação! FEITO
-
-Para cada bloco, estime a probabilidade de um país daquele bloco ser avançado, isto é, P(avançado|bloco). FEITO
-
-Usando o Teorema de Bayes, estime, para cada bloco, P(bloco|avançado). FEITO
-
-Projete um pequeno sistema que classifica países como participantes de algum bloco à partir da informação de eles serem avançados ou não no indicador que foi escolhido. FEITO
-
-Conclua: o indicador que você escolheu é um bom preditor para o bloco econômico? FEITO
-
+Para cada bloco, encontre a probabilidade de um país sorteado aleatoriamente naquele bloco ser da categoria “avançado” (isto é: P(avançado|bloco)).
+Usando bootstrapping, calcule o intervalo de confiança de 90% para P(avançado|bloco) para cada bloco.
+Mostre, em uma figura, P(avançado|bloco) e os intervalos de confiança calculados. Há sobreposição dos intervalos de confiança? Quais?
+Levando em consideração os intervalos de confiança, seria seguro dizer que países de um bloco são tipicamente mais “avançados” que os de outro bloco em relação ao indicador que você escolheu?
 Entrega
 
-Notebook exportado para PDF que é a continuação dos anteriores, contendo: FEITO
+Notebook exportado para PDF que é a continuação dos anteriores, contendo:
 
-Uma figura mostrando as distribuições dos países nas categorias “avançado” e “atrasado”, e, simultaneamente, mostrando a distribuição dos países nos blocos econômicos escolhidos, FEITO
-Análise: um texto de até 500 palavras explicando FEITO
-Quais foram os blocos de interesse escolhidos FEITO
-Qual é o motivo pelo qual esses blocos específicos foram criados e quais são os benefícios que os países recebem ao participar dos blocos FEITO
-Os resultados do processo de classificação que você definiu, mostrando a probabilidade de acertos na classificação (acurácia por classe) para cada um dos blocos econômicos. FEITO
+Uma figura mostrando P(avançado|bloco) para cada bloco econômico, incluindo seu intervalo de confiança.
+Discussão: um texto de até 500 palavras explicando como esse intervalo indica se é seguro dizer que os países de um bloco são tipicamente mais “avançados” que os do outro bloco em relação ao indicador que você escolheu
 Uma tabela indicando quais foram as modificações feitas na entrega anterior para contemplar o feedback que foi recebido.
-Lembre-se de entregar também seu dataset, isto é, deixe o repositório preparado para ser executado novamente! FEITO
+Lembre-se de entregar também seu dataset, isto é, deixe o repositório preparado para ser executado novamente!
